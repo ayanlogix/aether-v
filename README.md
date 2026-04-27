@@ -1,7 +1,7 @@
 # Aether-V | Vision OS Intelligence
 
-![Aether-V Preview](https://img.shields.io/badge/Ayanlogix-Premium_Project-blue?style=for-the-badge)
-![Private](https://img.shields.io/badge/Status-Private-red?style=for-the-badge)
+![Operational](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://ayanlogix.github.io/aether-v/)
 
 **Aether-V** is a high-fidelity spatial intelligence dashboard inspired by Vision OS. It features a sleek, glassmorphic UI designed to monitor complex neural nodes, global intelligence analytics, and multi-cluster traffic in real-time.
 
